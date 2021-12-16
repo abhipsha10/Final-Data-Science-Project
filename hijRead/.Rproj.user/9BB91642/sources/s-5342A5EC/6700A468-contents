@@ -1,0 +1,8 @@
+library(devtools)
+library(jsonlite)
+library(httr)
+
+library(hijread)
+install_github("Luka-Vasilj/hijread"))
+
+hijdate("12-12-2021")
